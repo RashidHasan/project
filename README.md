@@ -5,7 +5,7 @@
 ## Lab Three
 
 
-![Screenshot (1102)](https://github.com/RashidHasan/project/assets/136935583/945edac5-c947-439c-9308-612d32d44bad)
+(https://github.com/RashidHasan/project/assets/136935583/945edac5-c947-439c-9308-612d32d44bad)
 
 
 
