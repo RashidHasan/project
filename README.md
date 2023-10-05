@@ -24,11 +24,13 @@ https://github.com/RashidHasan/Login-Page
 
 - The end result should look like this:
 
-![Screenshot 2023-10-05 033637](https://github.com/RashidHasan/project/assets/136935583/5b598c07-b8f5-4784-ae00-f75bc6d090cb)
+![Screenshot (1104)](https://github.com/RashidHasan/project/assets/136935583/304923a9-0ebd-4283-a8c4-5e335fd0a10c)
+
 
 ![Screenshot (1103)](https://github.com/RashidHasan/project/assets/136935583/db71bf36-5425-4035-b368-1bc94e58a5df)
 
 
+![Screenshot (1105)](https://github.com/RashidHasan/project/assets/136935583/32f3610e-6768-4177-9daf-ccf0aa44007f)
 
 # Getting Started with Create React App
 
