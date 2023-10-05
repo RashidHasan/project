@@ -1,29 +1,27 @@
+import React from "react";
 import data from "./data.json";
-import CardComp from "./card"; // Make sure to use PascalCase for component names
+import CardComp from "./card";
+import "./main.css"; // Import the CSS file
 
 function Main() {
   return (
     <>
-      <div
-        style={{
-          display: "flex",
-          flexWrap: "wrap",
-          justifyContent: "space-between",
-          margin: "2%",
-          gap: "10px",
-        }}
-      >
-        {data.map(function (Item, index) {
-          // Add an index parameter to map function
-          return (
-            <CardComp
-              key={index} // Add a unique "key" prop
-              image_url={Item.image_url}
-              title={Item.title}
-              description={Item.description}
-            />
-          );
-        })}
+      <div className="Holder">
+        <div className="container">
+          {data.map(function (Item, index) {
+            // Add an index parameter to map function
+            return (
+              <div className="card" key={index}>
+                <CardComp
+                  image_url={Item.image_url}
+                  title={Item.title}
+                  description={Item.description}
+                  category={Item.category}
+                />
+              </div>
+            );
+          })}
+        </div>
       </div>
     </>
   );
