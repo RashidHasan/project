@@ -16,6 +16,20 @@ https://github.com/RashidHasan/Login-Page
 
 
 
+
+## Lab Four
+- Inside the Card component in your React project, when the user clicks on the button, you have to show the description in a pop up modal for each card. Use bootstrap modals: Bootstrap Modals.
+
+- The cards should be wrapped horizontally inside the page, you also have to add more space between them, add margins(top, bottom, left and right) between the main content of the page and the page’s borders.
+
+- The end result should look like this:
+
+![Screenshot 2023-10-05 033637](https://github.com/RashidHasan/project/assets/136935583/5b598c07-b8f5-4784-ae00-f75bc6d090cb)
+
+![Screenshot (1103)](https://github.com/RashidHasan/project/assets/136935583/db71bf36-5425-4035-b368-1bc94e58a5df)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
